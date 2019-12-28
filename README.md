@@ -1,6 +1,6 @@
 # 我的笔记
 
-网址： https://paipong.github.io/paipong.io.my-notes/
+网址： https://paipong.github.io/paipong.io.my-notes
 
 ## 001 [如何快速阅读？](/fastreading/)
 
