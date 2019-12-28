@@ -20,4 +20,8 @@
 ### 3 罗胖
 刷书，随便翻，每天至少2本，快则10本。
 
+## 行动
+
+每天刷30页，笔记300字。
+
 [点击阅读原文](https://m.igetget.com/share/course/article?id=5Mr9mzb36pP4JL5535XkWqB2EYNegL)
