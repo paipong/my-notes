@@ -1,6 +1,6 @@
-# 我的笔记
+# 彭湃的笔记
 
-网址： https://paipong.github.io/paipong.io.my-notes
+渲染后网址： https://paipong.github.io/paipong.io.my-notes
 
 ## 001 [如何快速阅读？](/fast-reading/)
 
@@ -8,4 +8,4 @@
 
 ## 002 [如何写好工作总结](/work-summary/)
 
-什么时候写工作总结、到底什么是工作总结、怎样写好工作总结
+工作总结，是现在职场必备技能之一，不是简单的总结工作，如何通过4步，写好一份工作总结？
