@@ -79,11 +79,7 @@
 
 想出对策
 
-<<<<<<< HEAD
 ![](https://github.com/paipong/paipong.io.my-notes/blob/master/image/duice.jpg?raw=true)
-=======
-![](https://img.ivsky.com/img/tupian/pre/201907/13/cuiniao.jpg)
->>>>>>> ad623a6d30916153751bf5f83f8c2d3e54481878
 
 问题与对策一并写上
 
