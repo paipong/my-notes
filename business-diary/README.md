@@ -67,11 +67,11 @@
 
 难以写出内容积极向上的日记时，就按以下三步写日记。
 
-![7](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibNqNWqgyGRVicU9EVjjIxn2ke3RzWURmBNFtwA8pianYVYiaxQ4I9WPv4lg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibNqNWqgyGRVicU9EVjjIxn2ke3RzWURmBNFtwA8pianYVYiaxQ4I9WPv4lg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![8](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibNDNzTIbt34T5qyLoIib6dIkaB9eUx3oHl1j1KdKOTWERPZptmJIzELOg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibNDNzTIbt34T5qyLoIib6dIkaB9eUx3oHl1j1KdKOTWERPZptmJIzELOg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![9](images/today3.jpg)
+![](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibNPibqAXibuia2KLYLmCMmVt5HbG4UxQsvMvqws2eLdA2LE7QOJtVJ1lQMQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ### 2.边思考边记录
 要带着问题意识写，思考事情如何演化成这样的，边思考问题原因，边写日记。
@@ -86,7 +86,7 @@
 
 ![问题与对策](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibN1obzM8TbiaYMP8nYVWZg47ib40VlJ6SFL38XDTSCGEHjLRKDah7ed8AQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-!问题与对策](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibN8gn9nM7h5Nr6gb9jUSTlp2RvTEAf8eQjn3xLeWVRicib37ibwGYC1pFbQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![问题与对策](https://mmbiz.qpic.cn/mmbiz_png/aFaKugIvvgZhsCH82iaudKbsOYlcRhbibN8gn9nM7h5Nr6gb9jUSTlp2RvTEAf8eQjn3xLeWVRicib37ibwGYC1pFbQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ---
 
