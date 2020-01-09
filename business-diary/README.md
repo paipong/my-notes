@@ -79,7 +79,7 @@
 
 想出对策
 
-![](https://img.ivsky.com/img/tupian/pre/201907/13/cuiniao.jpg)
+![](duice.jpg)
 
 问题与对策一并写上
 
