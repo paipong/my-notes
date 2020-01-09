@@ -79,7 +79,7 @@
 
 想出对策
 
-![11](image/duice.jpg)
+![11](https://github.com/paipong/paipong.io.my-notes/blob/master/image/duice.jpg?raw=true)
 
 问题与对策一并写上
 
